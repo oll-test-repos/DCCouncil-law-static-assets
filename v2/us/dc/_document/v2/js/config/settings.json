@@ -1,0 +1,68 @@
+{
+  "general": {
+    "libraryName": "District of Columbia Law Library",
+    "language": "en-US",
+    "gitProviderURL": "https://github.com",
+    "gitOrgName": "DCCouncil",
+    "liveSite": "https://code.dccouncil.us/",
+    "displayName": "District of Columbia",
+    "entityId": "us/dc"
+  },
+  "publish": {
+    "themeVersion": "v2",
+    "favicon": "/images/favicons/favicon.ico",
+    "themeId": "/us/dc",
+    "style": { "namespaceSuffix": "us-dc" },
+    "logo": {
+      "name": "Council of the District of Columbia",
+      "libraryLogo": { "image": "/images/logo/dccouncil_typemark.svg", "srcset": [] },
+      "header": {
+        "image": "/images/logo/dc-seal-outline.png",
+        "srcset": [
+          "/images/logo/dc-seal-outline.png 1x",
+          "/images/logo/dc-seal-outline@2x.png 2x"
+        ]
+      },
+      "footer": {
+        "image": "/images/logo/dc-seal.png",
+        "srcset": [ "/images/logo/dc-seal.png 1x", "/images/logo/dc-seal@2x.png 2x" ]
+      }
+    },
+    "fonts": [
+      "/biticons/biticons.css",
+      "/fonts/droid-serif/droid-serif.css",
+      "/fonts/open-sans/open-sans.css"
+    ],
+    "feature": { "reader": false, "openGraph": true, "pwa": true },
+    "pwa": {
+      "name": "District of Columbia Law Library",
+      "short_name": "D.C. Law Library",
+      "description": "District of Columbia Law Library contains latest official version of Code, D.C. Laws, and federal laws",
+      "theme_color": "#000000",
+      "background_color": "#FFFFFF",
+      "display": "standalone",
+      "start_url": "/",
+      "scope": "/",
+      "orientation": "portrait-primary",
+      "dir": "ltr"
+    },
+    "msapp": { "tileColor": "#FFFFFF" },
+    "search": {
+      "searchHost": "https://search.code.dccouncil.us",
+      "queryUrl": "/v1/search",
+      "method": "POST"
+    },
+    "openGraph": {
+      "libraryName": "District of Columbia Law Library",
+      "defaultDescription": "District of Columbia Law Library contains latest official version of Code, D.C. Laws, and federal laws",
+      "defaultImage": "/images/og/og_image.png"
+    },
+    "contact": { "email": "code@dccouncil.us" },
+    "analytics": {
+      "trackingPixel": "//analytics.code.dccouncil.us/piwik.php",
+      "trackingSite": "1"
+    },
+    "entityName": "DCCouncil",
+    "staticAssets": "git@github.com:oll-test-repos/DCCouncil-law-static-assets.git"
+  }
+}
