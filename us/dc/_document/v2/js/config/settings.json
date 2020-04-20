@@ -61,9 +61,6 @@
       "defaultImage": "/images/og/og_image.png"
     },
     "contact": { "email": "code@dccouncil.us" },
-    "analytics": {
-      "trackingPixel": "//analytics.code.dccouncil.us/piwik.php",
-      "trackingSite": "1"
-    }
+    "analytics": { "trackingPixel": "/_analytics/pixel.png", "trackingSite": "" }
   }
 }
