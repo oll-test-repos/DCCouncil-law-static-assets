@@ -50,11 +50,6 @@
       "dir": "ltr"
     },
     "msapp": { "tileColor": "#FFFFFF" },
-    "search": {
-      "searchHost": "https://search.code.dccouncil.us",
-      "queryUrl": "/v1/search",
-      "method": "POST"
-    },
     "openGraph": {
       "libraryName": "District of Columbia Law Library",
       "defaultDescription": "District of Columbia Law Library contains latest official version of Code, D.C. Laws, and federal laws",
