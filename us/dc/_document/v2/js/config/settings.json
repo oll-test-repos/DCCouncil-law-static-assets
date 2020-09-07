@@ -16,6 +16,7 @@
     "entityName": "DCCouncil",
     "staticAssets": "git@github.com:oll-test-repos/DCCouncil-law-static-assets.git",
     "style": { "namespaceSuffix": "us-dc" },
+    "fetchCodeRecency": true,
     "logo": {
       "name": "Council of the District of Columbia",
       "libraryLogo": { "image": "/images/logo/dccouncil_typemark.svg", "srcset": [] },
