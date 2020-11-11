@@ -14,7 +14,10 @@
     "themeId": "/us/dc",
     "themeType": "custom",
     "entityName": "DCCouncil",
-    "staticAssets": "git@github.com:oll-test-repos/DCCouncil-law-static-assets.git",
+    "staticAssets": {
+      "development": "git@github.com:oll-test-repos/DCCouncil-law-static-assets.git",
+      "production": ""
+    },
     "style": { "namespaceSuffix": "us-dc" },
     "fetchCodeRecency": true,
     "logo": {
