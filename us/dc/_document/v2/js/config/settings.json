@@ -59,10 +59,7 @@
       "defaultDescription": "District of Columbia Law Library contains latest official version of Code, D.C. Laws, and federal laws",
       "defaultImage": "/images/og/og_image.png"
     },
-    "contact": {
-      "email": "code@dccouncil.us",
-      "content": "<p>Open Law Library strives for total accuracy, but mistakes do happen. Please help make the law more accessible by reporting any inaccuracies you might find or if you have any feedback that can help us improve your experience.</p>"
-    },
+    "contact": { "email": "code@dccouncil.us" },
     "analytics": { "trackingPixel": "/_analytics/pixel.png", "trackingSite": "" }
   }
 }
