@@ -12,11 +12,14 @@ Thumbs.db
 sh.exe.stackdump
 .sass-cache/*
 node_modules/*
+
 #############################
 # Override parent gitignore #
 #############################
+
 !*.css.map
 !*.js.map
+
 # DOT files
 !*.png
 !*.pdf
