@@ -538,4 +538,4 @@ render._withStripped = true
 /***/ })
 
 }]);
-//# sourceMappingURL=Open-Law-Library-Filterable-Table-v2-35-0-169760.js.map
+//# sourceMappingURL=Open-Law-Library-Filterable-Table-v2-36-0-169760.js.map

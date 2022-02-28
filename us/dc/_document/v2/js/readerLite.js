@@ -45663,7 +45663,7 @@ module.exports = JSON.parse('{"resolutions":{"mobile":{"name":"mobile","breakpoi
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse('{"clientVersion":"2.35.0","themeVersion":"v2","themeType":"custom","themeName":"custom","themeId":"/us/dc","style":{"namespaceSuffix":"us-dc"},"logo":{"libraryLogo":{"image":"/images/logo/dccouncil_typemark.svg","srcset":[]},"header":{"image":"/images/logo/dc-seal-outline.png","srcset":["/images/logo/dc-seal-outline.png 1x","/images/logo/dc-seal-outline@2x.png 2x"]},"footer":{"image":"/images/logo/dc-seal.png","srcset":["/images/logo/dc-seal.png 1x","/images/logo/dc-seal@2x.png 2x"]}},"fonts":["/biticons/biticons.css","/fonts/droid-serif/droid-serif.css","/fonts/open-sans/open-sans.css"],"contact":{"email":"code@dccouncil.us"},"fetchCodeRecency":true,"reader":{"rootUrl":"/"}}');
+module.exports = JSON.parse('{"clientVersion":"2.36.0","themeVersion":"v2","themeType":"custom","themeName":"custom","themeId":"/us/dc","style":{"namespaceSuffix":"us-dc"},"logo":{"libraryLogo":{"image":"/images/logo/dccouncil_typemark.svg","srcset":[]},"header":{"image":"/images/logo/dc-seal-outline.png","srcset":["/images/logo/dc-seal-outline.png 1x","/images/logo/dc-seal-outline@2x.png 2x"]},"footer":{"image":"/images/logo/dc-seal.png","srcset":["/images/logo/dc-seal.png 1x","/images/logo/dc-seal@2x.png 2x"]}},"fonts":["/biticons/biticons.css","/fonts/droid-serif/droid-serif.css","/fonts/open-sans/open-sans.css"],"contact":{"email":"code@dccouncil.us"},"fetchCodeRecency":true,"reader":{"rootUrl":"/"}}');
 
 /***/ })
 
@@ -45784,7 +45784,7 @@ module.exports = JSON.parse('{"clientVersion":"2.35.0","themeVersion":"v2","them
 /******/ 		// This function allow to reference async chunks
 /******/ 		__webpack_require__.u = (chunkId) => {
 /******/ 			// return url for filenames based on template
-/******/ 			return "" + chunkId + "-v2-35-0-" + "169760" + ".js";
+/******/ 			return "" + chunkId + "-v2-36-0-" + "169760" + ".js";
 /******/ 		};
 /******/ 	})();
 /******/ 	
